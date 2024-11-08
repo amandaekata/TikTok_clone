@@ -1,0 +1,1 @@
+ /Users/amanda/Documents/TIKTOK/tiktok_project/.dart_tool/flutter_build/886d46487de8c7a59cf8e127cda4afac/native_assets.yaml: 
